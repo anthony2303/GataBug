@@ -1,6 +1,6 @@
 # TÉRMINOS, PRIVACIDAD, Y CONDICIONES DE USO.
  
-> **_Última actualización 22 de diciembre de 2023_**
+> **_Última actualización 03 de Julio de 2024_**
 
 ## MODIFICACIONES Y ACTUALIZACIONES
 _Nos reservamos el derecho de actualizar, modificar o cambiar nuestros términos, políticas de privacidad y condiciones sin previo aviso. Cualquier ajuste será efectivo inmediatamente después de su publicación. Le recomendamos revisar periódicamente nuestras políticas para estar informado sobre cualquier cambio. El uso continuado de nuestro código o bot después de la publicación de cualquier modificación constituirá su aceptación de dichas modificaciones._
@@ -21,7 +21,7 @@ Al utilizar este proyecto, ya sea como anfitrión de ejecución del código o co
 <details>
 <summary><b>DERECHOS DE PROPIEDAD INTELECTUAL</b></summary>
   
-> **Este repositorio, alojado originalmente en [GitHub](https://github.com/GataNina-Li/GataBot-MD), incluye complementos que han sido creados bajo la propiedad exclusiva de este repositorio.**
+> **Este repositorio, es dueño originalmente de [WhatsApp](https://wa.me/5215625060788), incluye complementos que han sido creados bajo la propiedad exclusiva de este repositorio.**
 
 1.	`Complementos bajo Propiedad del Repositorio:` Los complementos contenidos en este repositorio han sido desarrollados y son propiedad exclusiva del mismo. Cualquier reproducción, distribución o uso no autorizado de estos complementos está estrictamente prohibido y sujeto a las leyes de propiedad intelectual.
 
@@ -40,7 +40,7 @@ Al utilizar este proyecto, ya sea como anfitrión de ejecución del código o co
 <details>
 <summary><b>COMPRAS Y PAGOS</b></summary>
   
-Dentro del código, no se solicita ningún pago real ni compra, a excepción de la posibilidad de realizar una donación voluntaria a través de [**PayPal**](https://paypal.me/OficialGD).<br /><br />
+Dentro del código, no se solicita ningún pago real ni compra, a excepción de la posibilidad de realizar una donación voluntaria a través de [**WhatsApp**](https://wa.me/5215625060788).<br /><br />
 Cualquier otra interpretación de términos como "compra" o "pago" se refiere exclusivamente a acciones intangibles y ficticias que complementan el uso del bot para los usuarios. Estas acciones no conllevan transacciones financieras reales y se deben entender como parte de la experiencia de uso del servicio. La donación voluntaria, si se elige realizarla, es independiente de la funcionalidad principal del código y se destina únicamente al soporte y mejora continua del proyecto.
 </details>
 
@@ -64,7 +64,7 @@ Si, de alguna manera, una persona menor de esa edad utiliza el código o el bot,
 <summary><b>LICENCIA DE DISTRIBUCIÓN</b></summary>
 
 - [x] **1. AUTORIZADOS**<br>
-> **Distribución autorizada del código solo con [permiso](https://www.atom.bio/gatabot/).**
+> **Distribución autorizada del código solo con [Anthony](https://wa.me/5215625060788).**
 
 Solo las personas debidamente autorizadas por la propietaria tienen permiso para distribuir el código, ya sea con fines comerciales o educativos. La lista de distribuidores autorizados, quienes han solicitado y obtenido permiso, estará disponible públicamente.
 Si deseas utilizar este código con fines comerciales y no cuentas con el permiso de la propietaria, debes contactarte formalmente a través de sus canales oficiales para solicitar autorización.
@@ -77,7 +77,7 @@ No proporcionamos garantías a la comunidad sobre cómo se manejarán los datos,
 - [ ] **3. NO AUTORIZADOS**<br>
 > **Denuncia a quienes vendan sin autorización. No permitas que inocentes sean estafados.**
 
-Si identificas a alguien que vende nuestro código y no aparece en la lista de distribuidores autorizados, te instamos a denunciarlo. Notifica a los desarrolladores de este incidente para que se tomen las medidas pertinentes, las cuales están reservadas en este documento. La violación de esta política será tratada con seriedad y conllevará acciones legales si es necesario.
+Si identificas a alguien que vende nuestro código y no aparece en la lista de distribuidores autorizados, te invitamos a denunciarlo. Notifica a los desarrolladores de este incidente para que se tomen las medidas pertinentes, las cuales están reservadas en este documento. La violación de esta política será tratada con seriedad y conllevará acciones legales si es necesario.
 </details>
 
 <details>
@@ -94,19 +94,19 @@ En el contexto de un bot, es posible que algunos comandos no funcionen correctam
 <details>
 <summary><b>BoxMine Host</b></summary>
 
-El servicio de hosting proporciona alojamiento para GataBot en sus servidores, enfatizando que no vende el código de GataBot. Han leído y aceptado la política de GataBot, consolidando mejoras para la Comunidad GataBot y la comunidad de BoxMine.
+El servicio de hosting proporciona alojamiento para NekoTina en sus servidores, enfatizando que no vende el código de GataBot. Han leído y aceptado la política de Nekotina, consolidando mejoras para la Comunidad Nekotina y la comunidad de BoxMine.
 </details>
 
 <details>
 <summary><b>Cafirexos</b></summary>
 
-Como servicio de hosting especializado en alojamiento de Bots, ofrece una versión de GataBot con la aprobación de la misma, conforme a su disposición de aceptar la política de GataBot.
+Como servicio de hosting especializado en alojamiento de Bots, ofrece una versión de Nekotina con la aprobación de la misma, conforme a su disposición de aceptar la política de Nekotina.
 </details>
 
 <details>
 <summary><b>Vortexus Cloud</b></summary>
 
-GataBot forma parte del catálogo de Vortexus Cloud, que ofrece alojamiento en la nube. Este servicio acepta la política de GataBot, fortaleciendo la disposición de trabajar de manera conjunta.
+Nekotina forma parte del catálogo de Vortexus Cloud, que ofrece alojamiento en la nube. Este servicio acepta la política de NekoTina, fortaleciendo la disposición de trabajar de manera conjunta.
 </details>
 
 ### RECOMENDACIÓN DE LECTURA DE POLÍTICAS DE PATROCINADORES
@@ -118,7 +118,7 @@ Se sugiere encarecidamente leer la política de cada patrocinador para comprende
 <summary><b>POLÍTICA DE PRIVACIDAD</b></summary>
 
 ### Cuentas Oficiales
-Las cuentas oficiales de WhatsApp están bajo el control del Staff GataBot. Se implementa una rutina de eliminación de mensajes cada 24 horas, y la database se borra con frecuencia para garantizar que no se acumulen datos de usuarios. El progreso en estas cuentas no se mantiene de manera inamovible. El Staff realiza vigilancia para mantener la cuenta activa y utilizar datos públicos que contribuyan a mejorar GataBot según las diversas situaciones de los usuarios con acceso a la cuenta oficial.
+Las cuentas oficiales de WhatsApp están bajo el control del Staff Nekotina. Se implementa una rutina de eliminación de mensajes cada 24 horas, y la database se borra con frecuencia para garantizar que no se acumulen datos de usuarios. El progreso en estas cuentas no se mantiene de manera inamovible. El Staff realiza vigilancia para mantener la cuenta activa y utilizar datos públicos que contribuyan a mejorar Nekotina según las diversas situaciones de los usuarios con acceso a la cuenta oficial.
 
 En calidad de bot, subbot o usuario común, es posible que se recopile cierta información, como el número de teléfono, datos de contacto, detalles del dispositivo, ubicación y la información proporcionada durante el uso del código.
 
