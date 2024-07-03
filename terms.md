@@ -40,7 +40,7 @@ Al utilizar este proyecto, ya sea como anfitrión de ejecución del código o co
 <details>
 <summary><b>COMPRAS Y PAGOS</b></summary>
   
-Para renta de un bot ya creado, perzonalizado o adquirir la licencia oficial es a traves de [**WhatsApp**](https://wa.me/5215625060788).<br /><br />
+Para renta de un bot ya creado, personalizado o adquirir la licencia oficial es a traves de [**WhatsApp**](https://wa.me/5215625060788).<br /><br />
 Cualquier otra interpretación de términos como "compra" o "pago" se refiere exclusivamente a acciones intangibles y ficticias que complementan el uso del bot para los usuarios. Estas acciones no conllevan transacciones financieras reales y se deben entender como parte de la experiencia de uso del servicio. El pago se usa para mantener los servidores y licencia activa, si se elige realizarla, es independiente de la funcionalidad principal del código y se destina únicamente al soporte y mejora continua del proyecto.
 </details>
 
