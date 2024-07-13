@@ -271,6 +271,7 @@ let juego = `*❤️❤️ MEDIDOR DE AMOR ❤️❤️*\n*_El amor de ${text.to
 await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
 
  // ------------------------------------------------------------------------------------------------------------------------------------------------   
+
 if (command == 'donarsala' || command == 'donarsala') {
 let top = `*_💎DONADORES DE SALA👑_*
     
