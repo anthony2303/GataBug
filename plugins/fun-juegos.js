@@ -271,6 +271,15 @@ let juego = `*❤️❤️ MEDIDOR DE AMOR ❤️❤️*\n*_El amor de ${text.to
 await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
 
  // ------------------------------------------------------------------------------------------------------------------------------------------------   
+if (command == 'donarsala' || command == 'donarsala') {
+let top = `*_💎DONADORES DE SALA👑_*
+    
+*EL DONADOR DE LA PRIMERA SALA SERA ${user(a)}_*
+
+*EN CASO DE TERCERA SALA EL DONADOR SERA ${user(b)}_*`
+m.reply(top, null, { mentions: conn.parseMention(top) })}
+
+// ------------------------------------------------------------------------------------------------------------------------------------------------   
  
  if (command == 'topgays') {
 let vn = 'https://qu.ax/HfeP.mp3'
