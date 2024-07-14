@@ -54,14 +54,14 @@ let old = performance.now()
   let speed = neww - old
 
 let info = `╭━━━━[ ${gt} ]━━━━━⬣
-┃➥ *CREADORA | CREATOR*
-┃ღ *𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨*
+┃➥ *CREADOR | CREATOR*
+┃ღ *𝘼𝙉𝙏𝙃𝙊𝙉𝙔 𝙑𝙏𝙎*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
-┃ღ *${ig}*
+┃ღ *wa.me/5215625060788*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃𓃠 *VERSIÓN ACTUAL | VERSION*
-┃ღ ${vs}
+┃ღ *V. 1.2*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *PREFIJO | PREFIX*
 ┃ღ *${usedPrefix}*
@@ -98,19 +98,19 @@ await conn.sendButton(m.chat, info, wm, pp, [
 ['𝙑𝙚𝙧 𝙂𝙧𝙪𝙥𝙤𝙨 | 𝙎𝙚𝙚 𝙂𝙧𝙤𝙪𝙥𝙨', '#grupolista'],
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨', '/cuentasgb'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', '.menu']], null, [
-['𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', `${md}`]], fkontak)
-//conn.sendFile(m.chat, gataImg, 'lp.jpg', info, fkontak, false, { contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
+['𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼', `${md}`]], fkontak)
+//conn.sendFile(m.chat, gataImg, 'lp.jpg', info, fkontak, false, { contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
 /*let info = `
 ╭━━━━[ ${gt} ]━━━━━⬣
 ┃
 ┃➥ *CREADORA | CREATOR*
-┃ღ *𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨*
+┃ღ *𝘼𝙉𝙏𝙃𝙊𝙉𝙔 𝙑𝙏𝙎*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
-┃ღ *${ig}*
+┃ღ *wa.me/5215625060788*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃𓃠 *VERSIÓN ACTUAL | VERSION*
-┃ღ ${vs}
+┃ღ *V. 1.2*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *PREFIJO | PREFIX*
 ┃ღ *${usedPrefix}*
@@ -147,7 +147,7 @@ await conn.sendButton(m.chat, info, wm, pp, [
 ┃
 ╰━━━[ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞ó𝙣 | 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 ]━━⬣`.trim()
 
-conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+conn.sendHydrated(m.chat, info, wm, pp, 'https://wa.me/5215625060788', '𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼', null, null, [
 ['𝙑𝙚𝙧 𝙂𝙧𝙪𝙥𝙤𝙨 | 𝙎𝙚𝙚 𝙂𝙧𝙤𝙪𝙥𝙨', '#grupolista'],
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨', '/cuentasgb'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', '.menu']
